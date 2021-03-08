@@ -1,7 +1,7 @@
 # Teoría de la Información
 Repositorio creado para almacenar tareas de dicha unidad de aprendizaje
 ## Contenido
-- [Tarea 1](Tarea1/README.m)
+- [Tarea 1](Tarea1/README.md)
 
 ---
 
